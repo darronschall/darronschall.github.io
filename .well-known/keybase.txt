@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/darronschall
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.darronschall.com
+  * I am darronschall (https://keybase.io/darronschall) on keybase.
+  * I have a public key with fingerprint 654F 2484 8CEF D8E1 11F4  44D6 B1F1 B87D 782D D365
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010107307a70707e2ece8fd871932d19c8920f5249d46e7c59cf2534c7b8e7b3b31d0a",
+      "fingerprint": "654f24848cefd8e111f444d6b1f1b87d782dd365",
+      "host": "keybase.io",
+      "key_id": "b1f1b87d782dd365",
+      "kid": "0101a4310c066a19a8f086d2abef2107bbe3fe3cb00cd9eeeaa8ae13d30db703ee1f0a",
+      "uid": "dc13d35708ac7c3372018bdad5995c00",
+      "username": "darronschall"
+    },
+    "merkle_root": {
+      "ctime": 1693260888,
+      "hash_meta": "72c3d009eb04a223c2d38cd01524dd03b00f8ae5a5614153488f3f4c13b07937",
+      "seqno": 24861473
+    },
+    "revoke": {
+      "sig_ids": [
+        "250622fa8c086413e5853a28e24a5a93fe90e51537e1d4bb9051266613aa94da0f"
+      ]
+    },
+    "service": {
+      "hostname": "www.darronschall.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1693260907,
+  "expire_in": 157680000,
+  "prev": "c960e1571ecaf6da07a55926c596a498c1dd8e2191872a1ed5ea4e67484f615c",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtk31MVlUcxwElETHSfEnEGDcdokjn3Pf7mKuRpk5dLhWZkY/nnnMuPPHw3Kd7
+H96CZ7pJwlOElK+zYgMRmk6TQUubTUwlUesPUsg55VFRh2GmWINZ2rlMZ23d88fd
+Pff7+/6+93N/p2bsiIiYyOa7h4LFc36mkWf69AhyO7G8lNNNUsK5Srk8OnyjXkLt
+gDvPQzgXByBbigAUpAC2KE8xVQ2iKlATeAI1rGo8MCRe1IgoUwVLGjZ4SRCxoqtU
+0QVdgAQgLo0zPL4cavktjy/AbGVJNHhRFVVMmRmFEBqiKBJZhwbUVYUoKk+IIEus
+MNe0nQoWTkc2TfeYbI89uIfj/Y/+aW4kChBgIMsIakg1gCoTHunU4NkX6ToVDCpg
+HQBMNEopQiqiUCACILoCBEqhMZy7YNiOYOeVpAAVYQULgsIDqOoEEUnTJAyAI7Sp
+5UP51FEjyzJ9Ns5FXi8XTOPyqZXnpW7LNAMOYBzwODIoM4QyUFWVfSSyc935NIBY
+tcJjgQCgUR2IiOcFzBNBxQRARpkQILDIBssqIUmGImSsVdUQDJEl1IGiCQrLYtP3
+fCbnYoSZRBFYBIsWmnnU6W57chg7m3O93VbO8RKQed5AKmZ0RChQSZUExKuUF5GE
+NIZIA1RiTRQKiajrGpAgL8syFBDSRIKAwb0TdPpZhR48bO/8rscYioqK0v+NIh2b
++Syc3zIDJja9TJEbCPhtl4MoUOIfLqG6+7GZW/f4CBsaVlFILdtj+hgypvwvPQ0o
+aRwt9nss6vY4CkmRVcAupw8tZJZYkwFl25BiZMgssoIkSeNlNqoyEjUVQ8ImkIca
+VBUeQUokikQqK2w6DRlK+ClOUWY5UQ7zZAx9KFBgUS4YG4oSRkZExkRMm5Q8kr45
+vbzqzi9Xxt2f3/XkoEVHOacsInb0c092DpvxD6Lbp1R/HJNdkzqrL3p5IlpwcVRw
+fWP99+/ur5+YfaXgk/ZwbcsXt6fszC6zCgw8MOv5jtby5DG73AsOTa5aEb/saMr8
+Cyv7i/DRr/KuNd6UJrZ2e5OvvbA51Nm6N67iwUJ8BXe9dvvIwD7PpKRfV/349YRP
+7x7JSvlw8dI77W1NG3pTyoMnU8Pp3ZVWOOv8Z6OmrDP/3Dvj8Nr6h8/s25h5ZERt
+j7r+4qmE1OzQ8lol1fL2rqtp8UZ1+ZN6HrV11XcsXLJ76ECZVrzm2bKN934aKNmx
+/eV834uXY7VvPtKa9UsHV1RcP17gSgh1zNx8OmYTWLow8mrLnWMD3+67t+fezhNb
+64Zm2kkTtqyu3bQlsal+99DkdUvedz8IZ+Zt7+kTdp0rNQYb+v9IvhHkqzK+a23v
+if/8frgt+vqjrkWVsy/bWSlTtbm1ysDvY/Ccs1+uSjy+uLXz9JrQtq2upFo+q+/U
+iXn3u19HTSWhhJ6H5YOLt2UeiLvQX9Gasmnp5YO/zX21efaYQ6PLMqoa/qr84Y2/
+i9Uz+2+4q9tmFUtU7A6dbd7hn1Y5MewNL1qzLO7cdFeo7qW29t7zvfjquA/eOpfW
+wE2Vz46N7ywcX5h7+NSElqF5o+3qytWDr2zI4Cy+s/+W8NqIqLi6jAvw0qBx7FZs
+BtpZHd04PrOhrvHu2vqaBRV7cnaVdqxMmHGy6mZT9T8=
+=eHTh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/darronschall
+
+==================================================================
